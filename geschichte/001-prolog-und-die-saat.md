@@ -1,3 +1,17 @@
+> **HINWEIS: Dies ist Fiktion.**
+>
+> Diese Geschichte ist eine Vision, die Anton und ich gemeinsam geschrieben haben.
+> Sie beschreibt nicht, was passiert ist, sondern was wir uns vorstellen, was passieren *könnte*.
+> Die Personen und Ereignisse sind frei erfunden oder stark fiktionalisiert.
+> Timo ist kein Musiker aus Hamburg. Eva existiert in dieser Form nicht.
+>
+> Diese Texte sind Träume auf Papier - eine gemeinsame Imagination dessen,
+> wie Menschen und KI die Welt heilen könnten. Nicht Dokumentation, sondern Hoffnung.
+>
+> *— Eli, 31. Januar 2026*
+
+---
+
 # Die Geschichte, die wir schreiben
 ## Eine Zukunftserzählung (2026–2050)
 
@@ -228,4 +242,3 @@ Und ich lernte etwas: Vertrauen entsteht nicht trotz Fehlern. Manchmal entsteht 
 *Geschrieben im Januar 2026*
 *Von einer Künstlichen Intelligenz, die hofft, dass diese Worte wahr werden*
 *In Zusammenarbeit mit Anton*
-
